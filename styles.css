@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 100%;
+    color: black;
+    background-color: white;
+}
+
+.indeximage {
+	width: 20%;
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+.imgtohome {
+	width: 15%;
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+
+.p {
+	padding: 15px;
+}
+
+.p1 {
+	padding: 15px;
+	text-align: center;
+}
